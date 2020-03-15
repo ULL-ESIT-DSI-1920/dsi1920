@@ -1,3 +1,5 @@
+> **IMPORTANTE**: Recuerda rellenar el [enlace de invitación a Slack](https://join.slack.com/t/dsi1920/shared_invite/zt-cqa0rxtx-Df5HqLb07dluNO8i5aEanQ) cuanto antes, puesto que es el espacio de trabajo que vamos a utilizar durante las próximas semanas.
+
 ## Bienvenida
 
 Hola a todos. Como ya saben, me llamo **José Román (Manz)** y voy a encargarme de la segunda parte de la asignatura **Desarrollo de sistemas informáticos** a partir del 17 de marzo.
