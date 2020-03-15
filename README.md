@@ -2,7 +2,7 @@
 
 Por favor, lee aquí la [explicación](instrucciones.md) de cómo vamos a llevar las clases en esta segunda parte del curso.
 
-1. [Tema 1: Parcel + Scaffolding](apuntes/lesson1.md) · 23-25 marzo
+1. [Tema 1: Parcel + Scaffolding](apuntes/lesson1.md) · 17 marzo
 
    - Práctica tutorizada: Parcel
    - Entrega: 23-25 marzo
