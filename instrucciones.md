@@ -51,4 +51,8 @@ Durante clases veremos muchas herramientas, pero las principales plataformas que
 
 Slack es un sistema de mensajería orientada al mundo laboral. Se utiliza mucho en el mundo empresarial y es bastante práctico para discutir cuestiones de código, dudas o ver cosas interesantes relacionadas con nuestras clases.
 
-Utilizaremos esta plataforma como nuestro punto de contacto para comentar todo lo que necesiten. Pueden entrar en el canal mediante el siguiente [enlace de invitación a Slack](https://join.slack.com/t/dsi1920/shared_invite/zt-cqa0rxtx-Df5HqLb07dluNO8i5aEanQ).
+Utilizaremos esta plataforma como nuestro punto de contacto para comentar todo lo que necesiten.
+
+- Si aún no te has inscrito a Slack, puedes hacerlo desde este [enlace de invitación a Slack](https://join.slack.com/t/dsi1920/shared_invite/zt-cqa0rxtx-Df5HqLb07dluNO8i5aEanQ).
+
+- Para "humanizarnos" en Slack, un buen criterio podría ser ponernos nuestro nombre/nick particular (que nos diferencie de los demás: nick, nombre y primer apellido, etc...) y entre paréntesis nuestro nick de GitHub. Por ejemplo, en mi caso sería **Manz (ManzDev)**.

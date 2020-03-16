@@ -1,6 +1,10 @@
 # DSI 2019-2020
 
+## Importante
+
 Por favor, lee aquí la [explicación](instrucciones.md) de cómo vamos a llevar las clases en esta segunda parte del curso.
+
+## Temas del curso
 
 1. [Tema 1: Parcel + Scaffolding](apuntes/lesson1.md) · 17 marzo
 
