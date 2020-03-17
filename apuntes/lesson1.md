@@ -1,7 +1,11 @@
 ### Parcel + Scaffolding
 
-- [Video](https://www.youtube.com/watch?v=VQ6RfWG0aak)
-- [Slides](https://docs.google.com/presentation/d/1G-_eirr1j5iypgY643TjHswLdLFEovN9XB1o4KqbQTs/present)
+- [🎬 Parcel + Scaffolding](https://www.youtube.com/watch?v=VQ6RfWG0aak)
+- [📗 Slides](https://docs.google.com/presentation/d/1G-_eirr1j5iypgY643TjHswLdLFEovN9XB1o4KqbQTs/present)
+
+### Recursos adicionales
+
+- [🎬 Conceptos básicos HTML + CSS](https://youtu.be/epos-hGdwWM)
 
 ### Recursos
 
