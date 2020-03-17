@@ -38,8 +38,6 @@
 
 #### Práctica
 
-- [Enlace para crear la práctica](https://classroom.github.com/a/1B8YNT36)
-
 En las siguientes prácticas y retos intentaremos abordar un enfoque híbrido donde trabajaremos tanto con tecnologías de frontend clásicas, tecnologías de backend (_como node_) o enfoque siguiendo la filosofía de devops. Para comenzar un proyecto, es muy importante tener una buena estructura de carpetas, una buena configuración y conocer bien todo el _scaffolding_ que hay detrás del mismo.
 
 ```
