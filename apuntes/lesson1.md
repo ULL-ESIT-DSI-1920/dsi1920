@@ -5,6 +5,7 @@
 
 ### Recursos adicionales
 
+- [👩‍⚕️ ¿Problemas de permisos con NPM o no te reconoce Parcel?](https://gist.github.com/ManzDev/a133e36c02acb20e46a0c88255dd6d61)
 - [🎬 Conceptos básicos HTML + CSS](https://youtu.be/epos-hGdwWM)
 
 ### Recursos
