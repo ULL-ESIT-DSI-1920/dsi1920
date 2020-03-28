@@ -102,12 +102,13 @@ El objetivo de la práctica es crear una página **JavaSpotify** con varios vini
   transition: transform 0.5s; /* No realiza el movimiento de golpe */
 }
 
-.open {
+/* Esto aplica CSS al vinilo que está a continuación (+) de una clase "open" */
+.open + .vinyl {
   transform: translateX(-50px);
 }
 ```
 
-Esto hará que el vinilo se mueva cuando tenga la clase `open`. Ten en cuenta que en nuestro código Javascript, debemos añadir la clase `open` al vinilo en el momento que nos interese. Puedes aprovechar y reutilizar parte del código del reto del vinilo para adaptarlo e incluirlo en la práctica para el esquema anterior.
+Esto hará que el vinilo se mueva cuando tenga la clase `open`. Ten en cuenta que en nuestro código Javascript, debemos añadir la clase `open` al `.cover` en el momento que nos interese. Puedes aprovechar y reutilizar parte del código del reto del vinilo para adaptarlo e incluirlo en la práctica para el esquema anterior.
 
 4. Utilizando módulos de Javascript, crea dos clases `Player` y `Song` y expórtalas para utilizar en nuestro `index.js`, donde tendremos el siguiente hash o diccionario que tendremos que pasarle a la clase `Player`:
 
