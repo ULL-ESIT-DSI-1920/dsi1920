@@ -5,6 +5,8 @@
 - [📗 Slides](https://docs.google.com/presentation/d/1DM8Isw64WktJ5U-aJ53NY0X8t_vlhJCHPLAwnfKdReM/present)
 - [Previsualización de la práctica](practica-synth-voice.mp4)
 
+- **Aviso**: Si utilizan Chrome en Ubuntu/Linux, utilicen siempre valores inferiores de `rate` a `2`. Parece que B3cl0s3r ha descubierto un bug en Chrome bajo Ubuntu/Linux en el que la reproducción de un texto con valores superiores nunca termina (hay que hacer un `.cancel()` para terminar la reproducción).
+
 #### Recursos
 
 1. API Multimedia · [Soporte](https://caniuse.com/#feat=mdn-api_htmlmediaelement)
