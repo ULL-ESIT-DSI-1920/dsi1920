@@ -10,7 +10,7 @@
 - [🎬 8. Sombras CSS + Clip Path](https://youtu.be/5X4our9zBtE)
 - [🎬 9. Transformaciones y animaciones CSS](https://youtu.be/7SNFkrsRMco)
 - [📗 Slides](https://docs.google.com/presentation/d/1AAcV18yxbPTMo6VSGd4QviCVobXN6Osxo372IQEUwN4/present)
-- [Previsualización de la práctica](apuntes/practica-pokedex.mp4)
+- [Previsualización de la práctica](practica-pokedex.mp4)
 
 #### Recursos
 
