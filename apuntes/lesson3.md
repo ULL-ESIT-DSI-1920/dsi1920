@@ -7,6 +7,8 @@
 
 - **Aviso**: Si utilizan Chrome en Ubuntu/Linux, utilicen siempre valores inferiores de `rate` a `2`. Parece que B3cl0s3r ha descubierto un bug en Chrome bajo Ubuntu/Linux en el que la reproducción de un texto con valores superiores nunca termina (hay que hacer un `.cancel()` para terminar la reproducción).
 
+- **Aviso 2**: Al parecer el evento `boundary` sólo funciona en motores de ciertos sistemas operativos (Windows), mientras que parece que en [Linux no tiene soporte](https://bugs.chromium.org/p/chromium/issues/detail?id=521666#c7). Si no les es posible probarlo en un sistema con soporte, los puntos **3 y 4** de la práctica pasan a ser opcionales. En su lugar, pueden implementar una funcionalidad extra libre en las conversaciones, utilizando la API multimedia ya vista u otra funcionalidad similar. No se olviden documentar en el `README.md` que funcionalidad extra han hecho en reemplazo de _boundary_.
+
 #### Recursos
 
 1. API Multimedia · [Soporte](https://caniuse.com/#feat=mdn-api_htmlmediaelement)
@@ -37,7 +39,7 @@ const manzProfile = new Profile("Manz", {
   lang: "es",
   rate: 2.0,
   pitch: 1.0,
-  color: "#ff0000"
+  color: "#ff0000",
 });
 ```
 
@@ -52,9 +54,9 @@ conversation.addMessage([
   { author: breadmanProfile, text: "Yo también muy bien" },
   {
     author: manzProfile,
-    text: "El robot habla con un acento un tanto raro..."
+    text: "El robot habla con un acento un tanto raro...",
   },
-  { author: robotProfile, text: "Es que soy del norte" }
+  { author: robotProfile, text: "Es que soy del norte" },
 ]);
 ```
 
