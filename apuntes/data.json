@@ -1,0 +1,123 @@
+[
+  {
+    "character": "Capitana Marvel",
+    "name": "Carol Danvers",
+    "level": 5000,
+    "genre": "female",
+    "specie": "human",
+    "color": "#e5c751"
+  },
+  {
+    "character": "IronMan",
+    "name": "Tony Stark",
+    "level": 3000,
+    "genre": "male",
+    "specie": "human",
+    "color": "#601915"
+  },
+  {
+    "character": "Hulk",
+    "name": "Bruce Banner",
+    "level": 2000,
+    "genre": "male",
+    "specie": "mutate human",
+    "color": "#559551"
+  },
+  {
+    "character": "Capitán América",
+    "name": "Steve Rogers",
+    "level": 3000,
+    "genre": "male",
+    "specie": "human",
+    "color": "#1b337d"
+  },
+  { "character": "Thor", "name": "Thor", "level": 2500, "genre": "male", "specie": "asgardian", "color": "#43a8cf" },
+  {
+    "character": "Ojo de Halcón",
+    "name": "Clinton Francis Barton",
+    "level": 1500,
+    "genre": "male",
+    "specie": "human",
+    "color": "#3a3c65"
+  },
+  {
+    "character": "Viuda Negra",
+    "name": "Natasha Romanoff",
+    "level": 1750,
+    "genre": "female",
+    "specie": "human",
+    "color": "#310f41"
+  },
+  {
+    "character": "Bruja Escarlata",
+    "name": "Wanda Maximoff",
+    "level": 1750,
+    "genre": "female",
+    "specie": "mutate human",
+    "color": "#6e1213"
+  },
+  {
+    "character": "SpiderMan",
+    "name": "Peter Parker",
+    "level": 1500,
+    "genre": "male",
+    "specie": "human",
+    "color": "#ac192b"
+  },
+  {
+    "character": "AntMan",
+    "name": "Scott Lang",
+    "level": 1300,
+    "genre": "male",
+    "specie": "human",
+    "color": "#123951"
+  },
+  {
+    "character": "Doctor Strange",
+    "name": "Stephen Strange",
+    "level": 2500,
+    "genre": "male",
+    "specie": "human",
+    "color": "#74278a"
+  },
+  {
+    "character": "Soldado del Invierno",
+    "name": "Bucky Burners",
+    "level": 1250,
+    "genre": "male",
+    "specie": "human",
+    "color": "#516378"
+  },
+  {
+    "character": "Star Lord",
+    "name": "Peter Quill",
+    "level": 1500,
+    "genre": "male",
+    "specie": "human-spartoi",
+    "color": "#701f2d"
+  },
+  {
+    "character": "Gamora",
+    "name": "Gamora Zen Whoberi",
+    "level": 1000,
+    "genre": "female",
+    "specie": "zen-whoberis",
+    "color": "#579163"
+  },
+  {
+    "character": "Nebula",
+    "name": "Nebula",
+    "level": 1000,
+    "genre": "female",
+    "specie": "luphomoid",
+    "color": "#6370b4"
+  },
+  {
+    "character": "Black Panther",
+    "name": "T’Challa",
+    "level": 1500,
+    "genre": "male",
+    "specie": "human",
+    "color": "#2f2c80"
+  }
+]
