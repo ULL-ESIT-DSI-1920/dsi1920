@@ -7,6 +7,8 @@
 - [🎬 5. Explicación de la práctica](https://youtu.be/pGpEAKeW6J0)
 - [📗 Slides](https://docs.google.com/presentation/d/1S6B_fibEJKUvxEhcsDnIKgTdw3PeA4j9BhidJcHB7dY/present)
 
+- Nota: Al parecer, no se pueden incluir ficheros >10MB en un template de GitHub Classroom. Puesto que la práctica va de optimizar, incluyo a continuación un enlace para descargar estos archivos (en la carpeta `src/assets`): [typing.mp4](typing.mp4) [typing.webm](typing.webm)
+
 #### Recursos
 
 1. [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
