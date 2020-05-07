@@ -9,6 +9,8 @@
 
 - Nota: Al parecer, no se pueden incluir ficheros >10MB en un template de GitHub Classroom. Puesto que la práctica va de optimizar, incluyo a continuación un enlace para descargar estos archivos (en la carpeta `src/assets`): [typing.mp4](typing.mp4) [typing.webm](typing.webm)
 
+- Nota 2: Si tienen problemas para visualizar videos en navegadores (se escucha audio y no se ve imagen), en la conversión de **ffmpeg** utilicen el parámetro `-pix_fmt yuv420p`. Esto cambia el espacio de colores a uno compatible con la mayoría de navegadores, por lo que es probable que así consigan que se vea bien sin problemas.
+
 #### Recursos
 
 1. [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
