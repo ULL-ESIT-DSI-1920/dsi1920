@@ -11,6 +11,10 @@
 
 - Nota 2: Si tienen problemas para visualizar videos en navegadores (se escucha audio y no se ve imagen), en la conversión de **ffmpeg** utilicen el parámetro `-pix_fmt yuv420p`. Esto cambia el espacio de colores a uno compatible con la mayoría de navegadores, por lo que es probable que así consigan que se vea bien sin problemas.
 
+- Nota 3: Los tamaños de los archivos en la pestaña `Network` de Dev Tools pueden variar ligeramente dependiendo de la compresión que se aplica. Si mantienes el ratón encima, verás la diferencia. Para realizar la tabla comparativa, quizás lo mejor sea calcularlos desde la carpeta donde están trabajando, o haciendo un `ls -lh`.
+
+- Nota 4: Si tienen problemas a hacer el despliegue (la rama gh-pages ya existe), pueden solucionarlo escribiendo: `rm -rf node_modules/gh-pages/.cache`.
+
 #### Recursos
 
 1. [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)

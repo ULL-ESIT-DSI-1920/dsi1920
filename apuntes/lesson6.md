@@ -8,6 +8,8 @@
 - [📗 Slides](https://docs.google.com/presentation/d/1NfU2bxIaDjsA2ZkbMo3xytfXq5or2crVRlZf1W9RoHI/present)
 - [Previsualización de la práctica](practica-win311.mp4)
 
+- Nota: Ojo. El despliegue de Vue cambia respecto al visto con Parcel. Pueden crear un fichero `vue.config.js` en la raíz del proyecto y utilizar [publicPath](https://cli.vuejs.org/config/#publicpath) para indicar el nombre del repo del proyecto (equivalente al parámetro **--public-path** de Parcel). En [Despliegues en Vue](https://cli.vuejs.org/guide/deployment.html#github-pages) tienen más información. En lugar de hacer el `deploy.sh`, pueden continuar usando el paquete `gh-pages`, pero tengan en cuenta que Vue guarda el build en la carpeta `dist` en lugar de `build`.
+
 #### Recursos
 
 1. Scaffolding de un proyecto Vue.
