@@ -34,6 +34,8 @@ La segunda línea crea un contenedor a partir de la imagen `usuario/app_node`. A
 - `--name backtest` le pone nombre al contenedor
 - `-p 8081:8081` envía todo lo que sale por el puerto `8081` del contenedor al puerto `8081` de la máquina local. Esto es _muy importante_ para las pruebas.
 
+* El fichero `run.sh` solo sirve para propósitos de prueba mientras construímos la imagen. Más adelante lo haremos todo con Docker Compose.
+
 3. Si quieres hacer pruebas temporales en un contenedor, puedes hacer lo siguiente:
 
 - Ejecuta `docker exec -it backtest bash`
@@ -67,12 +69,12 @@ src/
 
 ```
 docker build -t usuario/app_front
-docker run --rm --name fronttest -p 8080:80 usuario/app_front
+docker run --rm --name fronttest -p 80:80 usuario/app_front
 ```
 
-En esta ocasión indicamos que el puerto `80` de este contenedor se envíe al puerto `8080` del equipo anfitrión.
+En esta ocasión indicamos que el puerto `80` de este contenedor se envíe al puerto `80` del equipo anfitrión.
 
-En este punto tendremos un backend en el puerto `8081` y un frontend en el puerto `8080`.
+En este punto tendremos un backend en el puerto `8081` y un frontend en el puerto `80`.
 
 3. Si alguno está teniendo problemas de **CORS**, se pueden evitar facilmente de la siguiente forma:
 
@@ -154,3 +156,7 @@ docker-compose build && docker-compose up
 - Indicar en `build` el contexto de cada servicio (al construir la imagen de Docker)
 
 4. Recuerda asegurarte de que en el `nginx.conf` has puesto el nombre del servicio de node en el host del proxy_pass.
+
+Otro gráfico que muestra el esquema de puertos y elementos utilizados en Docker Compose:
+
+![Ports](docker-ports.png)
